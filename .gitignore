@@ -1,0 +1,13 @@
+.vscode/
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Tt]est[Rr]esult*/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dll
+*.pdb
+*.cache
