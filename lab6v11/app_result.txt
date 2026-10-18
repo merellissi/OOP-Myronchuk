@@ -1,0 +1,2 @@
+2025-01-01 WARN  Disk space low
+2025-01-01 ERROR Connection lost
