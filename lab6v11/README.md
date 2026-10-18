@@ -21,6 +21,8 @@
 
 Запуск: `dotnet run`
 
+<img width="646" height="848" alt="image" src="https://github.com/user-attachments/assets/d83dac03-c68c-4bfa-9821-3ccd841a605b" />
+
 ## Контрольні питання
 
 **1. У чому основна відмінність між абстрактним класом та інтерфейсом?**
