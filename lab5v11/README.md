@@ -23,7 +23,8 @@
 
 ## Результат виконання
 
-![Результат](result.png)
+<img width="670" height="633" alt="image" src="https://github.com/user-attachments/assets/90c73096-c146-4681-8f4b-0f9bf90e29bb" />
+
 
 ## Контрольні питання
 
