@@ -14,7 +14,8 @@
 
 ## Результат виконання
 
-![Вивід програми](output.png)
+
+<img width="515" height="450" alt="image" src="https://github.com/user-attachments/assets/9d8f54a7-563b-464e-b839-d3e6920b2428" />
 
 ## Відповіді на контрольні питання
 
