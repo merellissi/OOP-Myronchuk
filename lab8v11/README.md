@@ -13,6 +13,7 @@
 
 ## Приклад виводу
 ```
-<img width="613" height="442" alt="image" src="https://github.com/user-attachments/assets/5b2f1e0a-c6bd-4dc5-8ec9-275faec19657" />
+<img width="613" height="442" alt="image" src="https://github.com/user-attachments/assets/7728f989-c1ad-48ce-bec2-66f16e349263" />
+
 
 ```
