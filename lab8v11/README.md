@@ -12,8 +12,5 @@
 з використанням лямбда-виразів.
 
 ## Приклад виводу
-```
-<img width="647" height="461" alt="image" src="https://github.com/user-attachments/assets/3294efdf-886a-48e2-804f-ecc1b4301e06" />
+<img width="647" height="461" alt="image" src="https://github.com/user-attachments/assets/9df0a6b7-5f55-423a-8380-f6228a3fc15e" />
 
-
-```
